@@ -2,7 +2,21 @@
 
 Moviepedia is a comprehensive React application that provides detailed information on millions of movies and TV shows. This project leverages a vast database to offer users extensive data, including descriptions, ratings, reviews, cast information, and more.
 
-![Moviepedia Screenshot](path/to/screenshot.png)
+## 1
+![Moviepedia](src/assets/screenshots/image%20(1).png)
+## 2
+![Moviepedia](src/assets/screenshots/image%20(6).png)
+## 3
+![Moviepedia](src/assets/screenshots/image%20(7).png)
+## 4
+![Moviepedia](src/assets/screenshots/image%20(5).png)
+## 5
+![Moviepedia](src/assets/screenshots/image%20(4).png)
+## 6
+![Moviepedia](src/assets/screenshots/image%20(3).png)
+## 7
+![Moviepedia](src/assets/screenshots/image%20(2).png)
+
 
 ## Table of Contents
 
@@ -35,7 +49,7 @@ Moviepedia is designed to be a one-stop destination for movie and TV show enthus
 - **React Router**: For routing and navigation.
 - **CSS Modules/Tailwind CSS**: For styling the application.
 - **TMDb API**: The Movie Database API for fetching movie and TV show data.
-- **YouTube API**: For fetching and playing trailers within the app.
+
 
 ## Installation
 
@@ -54,7 +68,6 @@ To run this project locally, follow these steps:
 
 3. **Set up API Keys**:
     - Obtain an API key from [The Movie Database (TMDb)](https://www.themoviedb.org/documentation/api).
-    - Obtain an API key from [YouTube Data API](https://developers.google.com/youtube/v3/getting-started).
     - Create a `.env` file in the root directory and add your API keys:
       ```bash
       REACT_APP_TMDB_API_KEY=your_tmdb_api_key_here
